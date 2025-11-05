@@ -10,7 +10,7 @@ Cuando un cliente solicita un dominio restringido, el servidor devuelve una resp
 
 ---
 
-## Cómo funciona
+## Funcionamiento
 El sistema consiste en un **servidor DNS proxy** desarrollado con Node.js que:
 
 1. **Recibe solicitudes DNS** de los clientes a través del puerto 53 (UDP).  
